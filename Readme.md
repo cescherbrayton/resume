@@ -8,6 +8,6 @@
 
 ## Research Interests
 
-Ice-ocean interactions - modeling ice shelf melt in Antarctica/Weddell Sea Polynya
-Remote sensing of bathymetry using ICESat-2
-Co-production of data with communities in Greenland and Alaska
+* Ice-ocean interactions - modeling ice shelf melt in Antarctica/Weddell Sea Polynya
+* Remote sensing of bathymetry using ICESat-2
+* Co-production of data with communities in Greenland and Alaska
